@@ -18,6 +18,13 @@ def test_chatbot():
         "Show me current prices",
         "What's a safe investment?",
         "Which coin should I buy for profit?"
+        "Best eco crypto options?",
+    "Is there any stable coin worth checking?",
+    "What's a profitable investment now?",
+    "What's the trend for Bitcoin?",
+    "Which coin uses the least energy?",
+    "Any tips for new investors?",
+    "How's the market today?",
     ]
     
     for i, query in enumerate(test_queries, 1):
